@@ -1,0 +1,22 @@
+{
+    "next_drone_id": 3,
+    "next_delivery_id": 7,
+    "drones": [
+        {"id": 1, "name": "Сокол", "model": "Sky A1"},
+        {"id": 2, "name": "Вектор", "model": "Sky B2"}
+    ],
+    "deliveries": [
+        {"id": 1, "drone_id": 1, "cargo": "Аптечка",
+         "price": 1200, "status": "done"},
+        {"id": 2, "drone_id": 1, "cargo": "Ремкомплект",
+         "price": 3500, "status": "ready"},
+        {"id": 3, "drone_id": 2, "cargo": "Оптика",
+         "price": 1500, "status": "done"},
+        {"id": 4, "drone_id": 2, "cargo": "Книги",
+         "price": 900, "status": "ready"},
+        {"id": 5, "drone_id": 1, "cargo": "Образцы",
+         "price": 2400, "status": "done"},
+        {"id": 6, "drone_id": 2, "cargo": "Батарея",
+         "price": 500, "status": "cancelled"}
+    ]
+}

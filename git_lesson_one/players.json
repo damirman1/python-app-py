@@ -1,0 +1,56 @@
+[
+   {
+      "id": 1,
+      "nickname": "Ali",
+      "level": 12,
+      "active": true
+   },
+   {
+      "id": 2,
+      "nickname": "Alisher",
+      "level": 135,
+      "active": true
+   },
+   {
+      "id": 3,
+      "nickname": "Danila",
+      "level": 18,
+      "active": false
+   },
+   {
+      "id": 4,
+      "nickname": "Damir",
+      "level": 42,
+      "active": false
+   },
+   {
+      "id": 5,
+      "nickname": "Malika",
+      "level": 16,
+      "active": true
+   },
+   {
+      "id": 6,
+      "nickname": "Amirlan",
+      "level": 169,
+      "active": false
+   },
+   {
+      "id": 7,
+      "nickname": "Kanysh",
+      "level": 82,
+      "active": true
+   },
+   {
+      "id": 8,
+      "nickname": "Dmitriy",
+      "level": 62,
+      "active": true
+   },
+   {
+      "id": 9,
+      "nickname": "Ali213pro",
+      "level": 14,
+      "active": true
+   }
+]

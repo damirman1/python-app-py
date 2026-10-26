@@ -1,0 +1,18 @@
+[{
+      "next_id": 1,
+      "players": [{
+            "id": 1,
+            "nickname": "Ali",
+            "level": 14,
+            "inventory": ["ключ", "карта"],
+            "quests": []
+        },
+        {
+            "id": 2,
+            "nickname": "Mira",
+            "level": 14,
+            "inventory": ["меч", "щит"],
+            "quests": []
+        }
+    ]
+}]
